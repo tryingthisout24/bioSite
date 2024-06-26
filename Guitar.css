@@ -95,8 +95,6 @@ footer {
 footer a.back-to-main {
     color: #4B2E2F; 
 }
-
-
 footer a.back-to-main:hover {
    text-decoration: underline;
 }
