@@ -65,10 +65,20 @@ footer {
     background-color: white;
     height: 90px;
     margin-top: 80px;
+    display: flex;
+    justify-content: flex-end; 
+    align-items: flex-end; 
+    padding: 10px 20px; 
 }
+
+footer p {
+    margin: 0;
+    padding: 0;
+}
+
 footer a.back-to-main {
     color: #4B2E2F;
-    margin-left: 20px;
+    text-decoration: none;
 }
 
 footer a.back-to-main:hover {
