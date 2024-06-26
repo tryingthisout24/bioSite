@@ -68,10 +68,7 @@ footer {
 }
 footer a.back-to-main {
     color: #4B2E2F;
-    text-decoration: none;
-    position: absolute;
-    bottom: 10px;
-    right: 20px;
+    margin-left: 20px;
 }
 
 footer a.back-to-main:hover {
