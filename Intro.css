@@ -38,7 +38,6 @@ h1 .subtitle {
     font-style: italic;
 }
 
-/* Navigation menu styles */
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -60,7 +59,6 @@ nav ul li a {
     display: block;
 }
 
-/* Dropdown styles */
 .dropdown-content {
     display: none;
     position: absolute;
@@ -127,7 +125,6 @@ nav ul li:hover .dropdown-content {
     margin-left: -100px;
 }
 
-/* Specific style for the second paragraph */
 .second-paragraph {
     margin-top: 0; /* Reduce this value to bring the second paragraph closer */
     margin-bottom: 20px; /* Adjust this as needed */
