@@ -66,3 +66,14 @@ footer {
     height: 90px;
     margin-top: 80px;
 }
+footer a.back-to-main {
+    color: #4B2E2F;
+    text-decoration: none;
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+}
+
+footer a.back-to-main:hover {
+    text-decoration: underline;
+}
